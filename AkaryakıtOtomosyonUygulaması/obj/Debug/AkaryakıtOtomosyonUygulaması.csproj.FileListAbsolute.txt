@@ -1,0 +1,11 @@
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\bin\Debug\AkaryakıtOtomosyonUygulaması.exe.config
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\bin\Debug\AkaryakıtOtomosyonUygulaması.exe
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\bin\Debug\AkaryakıtOtomosyonUygulaması.pdb
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.csproj.AssemblyReference.cache
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.Form1.resources
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.Properties.Resources.resources
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.csproj.GenerateResource.cache
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.exe
+C:\Users\gundo\OneDrive\Masaüstü\AkaryakıtOtomosyonUygulaması\AkaryakıtOtomosyonUygulaması\obj\Debug\AkaryakıtOtomosyonUygulaması.pdb
